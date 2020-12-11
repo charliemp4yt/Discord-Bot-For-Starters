@@ -1,19 +1,11 @@
 # Discord-Bot-For-Starters
-This is the tutorial bot :)
 
-## HANDLER SYLE
+Forked bot by [CTK-WARRIOR](https://github.com/CTK-WARRIOR/)
 
-```js
+# Self Hosting
+I decided to make it able to be self hostable. Just let me test it before I actually list how :D
 
-module.exports = {
-name: "ping",
-usage: "Nothing rlly",
-ownerOnly: false, 
-cooldown: 5000,
-botPermission: [],
-authorPermission: [],
-aliases: [],
-description: "Nothing",
-}
 
-```
+
+# To haters
+Fuck your complaining about me forking a repo on github, theres a feature and anyone can use it
